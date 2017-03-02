@@ -1,0 +1,3 @@
+# ict
+IT TECH 
+nformation technology (IT) is the application of computers to store, study, retrieve , transmit, and manipulate data, or information, often in the context of a ...
